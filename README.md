@@ -37,8 +37,8 @@ Else
 Use your recursive function to write a program that reads two strings from the user and displays the edit distance between them.
 
 ## Exercise X. Follow the steps:
-• Create a class, Triangle. Its init () method should take self, angle1, angle2, and angle3 as arguments. Make sure to set these appropriately in the body of the init () method.
-• Create a variable named number of sides and set it equal to 3.
-• Create a method named check angles. The sum of a triangle’s three angles is It should return True if the sum of self.angle1, self.angle2, and self.angle3 is equal 180, and False otherwise.
-• Create a variable named my triangle and set it equal to a new instance of your Triangle class. Pass it three angles that sum to 180 (e.g. 90, 30, 60).
-• Print out my triangle.number of sides and print out my triangle.check angles().
+* Create a class, Triangle. Its init () method should take self, angle1, angle2, and angle3 as arguments. Make sure to set these appropriately in the body of the init () method.
+* Create a variable named number of sides and set it equal to 3.
+* Create a method named check angles. The sum of a triangle’s three angles is It should return True if the sum of self.angle1, self.angle2, and self.angle3 is equal 180, and False otherwise.
+* Create a variable named my triangle and set it equal to a new instance of your Triangle class. Pass it three angles that sum to 180 (e.g. 90, 30, 60).
+* Print out my triangle.number of sides and print out my triangle.check angles().
